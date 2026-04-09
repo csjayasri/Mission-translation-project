@@ -1,6 +1,7 @@
 Project Title:English-to-French Neural Machine Translation 
 Description: 
-How to Run:1. Clone the repo: git clone https://github.com/sMADHU58/Machine_Translation_project.git 
+How to Run:
+1. Clone the repo: git clone https://github.com/sMADHU58/Machine_Translation_project.git 
 2. Install dependencies: pip install -r requirements.txt 
 3. Run the script: python app.py (or whatever your file name is) This project uses the Helsinki-NLP/opus-mt-en-fr model via the Hugging Face Transformers library. Here is a concise version for your README.md: English-to-French Machine Translation A Neural Machine Translation (NMT) system built using the Transformer architecture.
 
